@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0c62993-990e-4727-95e2-e730490a2d04" name="Default Changelist" comment="" />
+    <list default="true" id="c0c62993-990e-4727-95e2-e730490a2d04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Basic/python30.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Basic/python30.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonCrawler/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Crawler/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aqOYKtE1JcXUru0zGw6d7V7Emi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -84,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587459703391</updated>
       <workItem from="1587459708293" duration="3343000" />
-      <workItem from="1587699409627" duration="506000" />
+      <workItem from="1587699409627" duration="864000" />
     </task>
     <servers />
   </component>
