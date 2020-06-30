@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c62993-990e-4727-95e2-e730490a2d04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python-excel/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-excel/dataAnalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-excel/dataAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-excel/dataAnalysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -117,7 +119,9 @@
       <updated>1587459703391</updated>
       <workItem from="1587459708293" duration="3343000" />
       <workItem from="1587699409627" duration="960000" />
-      <workItem from="1589293931051" duration="2153000" />
+      <workItem from="1589293931051" duration="2827000" />
+      <workItem from="1589332059323" duration="1891000" />
+      <workItem from="1593502154781" duration="56000" />
     </task>
     <servers />
   </component>
@@ -125,46 +129,47 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1589298658596">
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1589422746500">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587699619749" />
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587701204549" />
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589422746500" />
+    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1589331352763" />
     <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589298658596" />
     <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.23.1440.795/1440.23.1920.1057@0.23.1440.795" timestamp="1587529351006" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1589298658594">
+    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1589422746499">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587699619747" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587701204547" />
+    <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589422746499" />
+    <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1589331352761" />
     <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589298658594" />
     <state width="1398" height="226" key="GridCell.Tab.0.center/0.23.1440.795/1440.23.1920.1057@0.23.1440.795" timestamp="1587529351002" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1589298658593">
+    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1589422746498">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587699619746" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587701204545" />
+    <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589422746498" />
+    <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1589331352758" />
     <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589298658593" />
     <state width="1398" height="226" key="GridCell.Tab.0.left/0.23.1440.795/1440.23.1920.1057@0.23.1440.795" timestamp="1587529351001" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1589298658595">
+    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1589422746500">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587699619748" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587701204548" />
+    <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589422746500" />
+    <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1589331352762" />
     <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589298658595" />
     <state width="1398" height="226" key="GridCell.Tab.0.right/0.23.1440.795/1440.23.1920.1057@0.23.1440.795" timestamp="1587529351004" />
-    <state x="0" y="0" width="1440" height="900" key="SettingsEditor" timestamp="1589298655850">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="0" y="0" width="1440" height="900" key="SettingsEditor" timestamp="1593502209910">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="0" y="0" width="1440" height="900" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589298655850" />
     <state x="426" y="31" key="SettingsEditor/0.23.1440.795/1440.23.1920.1057@0.23.1440.795" timestamp="1587529408754" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1587699415885">
+    <state x="0" y="0" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593502209910" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1589332060339">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587699415885" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589332060339" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/awesome_python$python30.coverage" NAME="python30 Coverage Results" MODIFIED="1587699616323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-basic" />
-    <SUITE FILE_PATH="coverage/awesome_python$dataAnalysis.coverage" NAME="dataAnalysis Coverage Results" MODIFIED="1589295374068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-excel" />
+    <SUITE FILE_PATH="coverage/awesome_python$dataAnalysis.coverage" NAME="dataAnalysis Coverage Results" MODIFIED="1589334935756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python-excel" />
   </component>
 </project>
