@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c62993-990e-4727-95e2-e730490a2d04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/awesome-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/awesome-python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-excel/dataAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-excel/dataAnalysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/_multiarray_umath.cpython-37m-darwin.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pandas/_libs/join.cpython-37m-darwin.so" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="awesome-python" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,7 +39,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSLint" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -121,7 +128,11 @@
       <workItem from="1587699409627" duration="960000" />
       <workItem from="1589293931051" duration="2827000" />
       <workItem from="1589332059323" duration="1891000" />
-      <workItem from="1593502154781" duration="56000" />
+      <workItem from="1593502154781" duration="123000" />
+      <workItem from="1593503851171" duration="309000" />
+      <workItem from="1611187696375" duration="66000" />
+      <workItem from="1618218259913" duration="513000" />
+      <workItem from="1620872562285" duration="503000" />
     </task>
     <servers />
   </component>
@@ -129,44 +140,19 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom" timestamp="1589422746500">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589422746500" />
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1589331352763" />
-    <state width="1398" height="271" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589298658596" />
-    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.23.1440.795/1440.23.1920.1057@0.23.1440.795" timestamp="1587529351006" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center" timestamp="1589422746499">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589422746499" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1589331352761" />
-    <state width="1398" height="271" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589298658594" />
-    <state width="1398" height="226" key="GridCell.Tab.0.center/0.23.1440.795/1440.23.1920.1057@0.23.1440.795" timestamp="1587529351002" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left" timestamp="1589422746498">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589422746498" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1589331352758" />
-    <state width="1398" height="271" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589298658593" />
-    <state width="1398" height="226" key="GridCell.Tab.0.left/0.23.1440.795/1440.23.1920.1057@0.23.1440.795" timestamp="1587529351001" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right" timestamp="1589422746500">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589422746500" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1589331352762" />
-    <state width="1398" height="271" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589298658595" />
-    <state width="1398" height="226" key="GridCell.Tab.0.right/0.23.1440.795/1440.23.1920.1057@0.23.1440.795" timestamp="1587529351004" />
-    <state x="0" y="0" width="1440" height="900" key="SettingsEditor" timestamp="1593502209910">
+    <state x="349" y="161" key="SettingsEditor" timestamp="1620873096796">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="0" y="0" width="1440" height="900" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589298655850" />
-    <state x="426" y="31" key="SettingsEditor/0.23.1440.795/1440.23.1920.1057@0.23.1440.795" timestamp="1587529408754" />
-    <state x="0" y="0" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1593502209910" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1589332060339">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="349" y="161" key="SettingsEditor/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1620873096796" />
+    <state x="517" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1620872565463">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1589332060339" />
+    <state x="517" y="387" key="com.intellij.ide.util.TipDialog/-1080.-475.1080.1895/0.25.1680.1025@0.25.1680.1025" timestamp="1620872565463" />
+    <state x="517" y="371" key="com.intellij.ide.util.TipDialog/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1618220155173" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1620873081474">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1620873081474" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/awesome_python$python30.coverage" NAME="python30 Coverage Results" MODIFIED="1587699616323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-basic" />
